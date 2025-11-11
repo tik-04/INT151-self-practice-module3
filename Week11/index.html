@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>CS1 - Study Plans</title>
+  </head>
+<body>
+    <header class= "top-bar">
+        <img src="./src/sit.png" alt="sit-logo" class="logo-img">
+        <div class="top-text"> Study Plan Declaration and Course Reservation</div>
+        <a href="#" class="signIn-btn" role="button"> Sign In</a>
+    </header>
+    <main>
+        <section id="majorListSection" class="section">
+            <h2>B.Sc.IT - Study Plans</h2>
+            <div id="majorList">
+                <table border="1" cellspacing="0" cellpadding="8">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Study Code</th>
+                            <th>English Name</th>
+                            <th>Thai Name</th>
+                        </tr>
+                    </thead>
+                    <tbody class="ecors-body">
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <dialog class="ecors-dialog" closedby="none">
+        <div class="ecors-dialog-message">There is a problem. Please try again later.</div>
+    </dialog>
+
+    <footer class="foot-bar">© 2025 School of Information Technology, KMUTT</footer>
+    <script src="app.js"></script>
+</body>
+</html>

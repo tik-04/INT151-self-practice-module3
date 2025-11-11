@@ -1,0 +1,8 @@
+Week11 - fetch data จาก backend
+
+รายละเอียด
+- เป็นการเขียน app.js ของ frontend สำหรับ INT541
+- ใช้ fetch และ การ created element
+
+Reflect
+- ได้ทวนเรื่อง Dom และ Validate และได้ลองใช้ async await และ fetch
