@@ -1,0 +1,7 @@
+Week15 - ทำ frontend ใน sprint สุดท้าย
+
+รายละเอียด
+- ทำในส่วนของ frontend Course offering และ Your Reservation
+
+Reflect
+- มี function ตาม requirment เยอะ ซึ่งต้องเขียน logic และใช้งาน ร่วมกับ backend ให้ดี
