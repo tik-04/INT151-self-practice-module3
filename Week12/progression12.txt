@@ -1,0 +1,8 @@
+Week12 - Keycloak
+
+รายละเอียด
+- เป็นการเขียน หน้าเว็ป reserved โดยใช้ keycloak ในการดัก authentication 
+- ดึงค่าต่างๆจาก keycloak เพื่อนำไปใช้งาน
+
+Reflect
+- ได้เรียนรู้และศุกษาเรื่องของ keycloak
